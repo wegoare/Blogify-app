@@ -1,5 +1,5 @@
 # Blogify-app
-for code go to master branch
+for code go to master branch--
 Screenshots of the applicaton
 ![WhatsApp Image 2024-06-01 at 20 09 36_6bcb6cdc](https://github.com/wegoare/Blogify-app/assets/113425421/3c526d60-2817-40c6-b800-c6c133df5e0e)
 ![WhatsApp Image 2024-06-01 at 20 08 34_50066b31](https://github.com/wegoare/Blogify-app/assets/113425421/5d0b7eea-2c18-427f-bdaf-efa37839f3a9)
