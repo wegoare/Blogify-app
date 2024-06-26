@@ -1,7 +1,7 @@
 {
   "name": "blogify",
   "version": "1.0.0",
-  "description": "",
+  "description": "Screenshots of the applicaton ![WhatsApp Image 2024-06-01 at 20 09 36_6bcb6cdc](https://github.com/wegoare/Blogify-app/assets/113425421/3c526d60-2817-40c6-b800-c6c133df5e0e) ![WhatsApp Image 2024-06-01 at 20 08 34_50066b31](https://github.com/wegoare/Blogify-app/assets/113425421/5d0b7eea-2c18-427f-bdaf-efa37839f3a9) <img width=\"887\" alt=\"image\" src=\"https://github.com/wegoare/Blogify-app/assets/113425421/0520dbae-c07a-4e89-a4e4-0676b218b3b1\">",
   "main": "app.js",
   "scripts": {
     "start": "node app.js",
@@ -11,15 +11,16 @@
   "license": "ISC",
   "dependencies": {
     "bcrypt": "^5.1.1",
+    "bcryptjs": "^2.4.3",
     "cookie-parser": "^1.4.6",
     "dotenv": "^16.4.5",
     "ejs": "^3.1.10",
     "express": "^4.19.2",
     "jsonwebtoken": "^9.0.2",
-    "mongoose": "^8.4.0",
+    "mongoose": "^8.4.4",
     "multer": "^1.4.5-lts.1"
   },
   "devDependencies": {
-    "nodemon": "^3.1.1"
+    "nodemon": "^3.1.4"
   }
 }
